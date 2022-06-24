@@ -22,7 +22,7 @@ We have:
 5 occurring 1 time.
 
 **CODE**
-
+```
 #include<bits/stdc++.h>
 using namespace std ;
 int main()
